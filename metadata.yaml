@@ -1,0 +1,37 @@
+_repo: Dead-Man-s-Plack-and-an-Old-Thorn_19691
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hudson, W. H. (William Henry)
+    aliases:
+    - Hudson, William Henry
+    - Harford, Henry
+    birthdate: 1841
+    deathdate: 1922
+    gutenberg_agent_id: '484'
+    url: http://www.gutenberg.org/2009/agents/484
+    wikipedia: http://en.wikipedia.org/wiki/William_Henry_Hudson
+description: The title of this popular 1920 classic by the eminent naturalist refers
+  to two locales that inspired him to seek out not only their scientific wonders but
+  also the stories behind their tradition and lore. The first, Dead Man's Plack, details
+  the legend behind a memorial cross where Hudson went to explore the insect life
+  and became immersed in investigating the murder story that occasioned it. The second,
+  The Hawthorn and the Ivy Near the Great Ridge Wood, concerns a solitary tree whose
+  beauty and the stories surrounding it, soon far outweigh his curiosity about its
+  botanical habits.
+gutenberg_issued: '2006-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19691'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Ælfthryth, queen consort of Edgar, 945?-1000'
+title: Dead Man's Plack and an Old Thorn
+url: http://www.gutenberg.org/ebooks/19691
